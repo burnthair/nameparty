@@ -1,0 +1,4 @@
+#name-container {width: min-content; padding: 20px;}
+#name-title {color: #ccc; font-size: 68px; line-height: 0.8; margin: 0 auto;}
+[class^="char"] {position: relative; transition: all 0.4s cubic-bezier(0.2 1.4 0.5 1);}
+.char22 {display: inline-block; -webkit-transform: rotate(22deg);}
